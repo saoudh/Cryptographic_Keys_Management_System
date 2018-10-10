@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+#container {
+    display: table;  
+    width: 100%;
+}
+
+
+#top
+{
+position: absolute;
+    right: 2%;
+    }
+    
+    #left
+{
+position: absolute;
+    left: 2%;
+    }
+    
+  ul {
+  list-style-type: none;
+}

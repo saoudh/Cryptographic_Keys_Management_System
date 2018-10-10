@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+#container {
+    display: table;  
+    width: 100%;
+}
+
+#pgp
+{
+position: absolute;
+    left: 2%;
+    }
+
+#keypair
+{
+position: absolute;
+    right: 2%;
+    }
+    
+#cert
+{
+position: absolute;
+    left: 40%;
+    }
+    
+#submit
+{
+position: absolute;
+    right: 5%;
+}
